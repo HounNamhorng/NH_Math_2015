@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{948BACB1-BF0B-4B03-83B4-18889D12E9CE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Assignment</RootNamespace>
+    <AssemblyName>Assignment</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Math logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2">
+      <HintPath>C:\Program Files (x86)\DotNetBar\Bin\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add2X2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add2X2.Designer.cs">
+      <DependentUpon>Add2X2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add2X3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add2X3.Designer.cs">
+      <DependentUpon>Add2X3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add2X4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add2X4.Designer.cs">
+      <DependentUpon>Add2X4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add3X2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add3X2.Designer.cs">
+      <DependentUpon>Add3X2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add3X3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add3X3.Designer.cs">
+      <DependentUpon>Add3X3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add3X4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add3X4.Designer.cs">
+      <DependentUpon>Add3X4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add4X2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add4X2.Designer.cs">
+      <DependentUpon>Add4X2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add4X3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add4X3.Designer.cs">
+      <DependentUpon>Add4X3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Det2X2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Det2X2.Designer.cs">
+      <DependentUpon>Det2X2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="det3X3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="det3X3.Designer.cs">
+      <DependentUpon>det3X3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAboutme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAboutme.Designer.cs">
+      <DependentUpon>frmAboutme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddFraction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddFraction.Designer.cs">
+      <DependentUpon>frmAddFraction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddMatrix.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddMatrix.Designer.cs">
+      <DependentUpon>frmAddMatrix.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add4X4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add4X4.Designer.cs">
+      <DependentUpon>Add4X4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeterminant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeterminant.Designer.cs">
+      <DependentUpon>frmDeterminant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDivideFraction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDivideFraction.Designer.cs">
+      <DependentUpon>frmDivideFraction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEquationDegreeII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEquationDegreeII.Designer.cs">
+      <DependentUpon>frmEquationDegreeII.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMinusFraction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMinusFraction.Designer.cs">
+      <DependentUpon>frmMinusFraction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMinusMatrix.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMinusMatrix.Designer.cs">
+      <DependentUpon>frmMinusMatrix.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMultipleFraction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMultipleFraction.Designer.cs">
+      <DependentUpon>frmMultipleFraction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMultipleMatrix.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMultipleMatrix.Designer.cs">
+      <DependentUpon>frmMultipleMatrix.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRD1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRD1.Designer.cs">
+      <DependentUpon>frmRD1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Minus2X2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Minus2X2.Designer.cs">
+      <DependentUpon>Minus2X2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Minus2X3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Minus2X3.Designer.cs">
+      <DependentUpon>Minus2X3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Minus2X4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Minus2X4.Designer.cs">
+      <DependentUpon>Minus2X4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Minus3X2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Minus3X2.Designer.cs">
+      <DependentUpon>Minus3X2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Minus3X3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Minus3X3.Designer.cs">
+      <DependentUpon>Minus3X3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Minus3X4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Minus3X4.Designer.cs">
+      <DependentUpon>Minus3X4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Minus4X2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Minus4X2.Designer.cs">
+      <DependentUpon>Minus4X2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Minus4X3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Minus4X3.Designer.cs">
+      <DependentUpon>Minus4X3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Minus4X4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Minus4X4.Designer.cs">
+      <DependentUpon>Minus4X4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyMath.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Add2X2.resx">
+      <DependentUpon>Add2X2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add2X3.resx">
+      <DependentUpon>Add2X3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add2X4.resx">
+      <DependentUpon>Add2X4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add3X2.resx">
+      <DependentUpon>Add3X2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add3X3.resx">
+      <DependentUpon>Add3X3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add3X4.resx">
+      <DependentUpon>Add3X4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add4X2.resx">
+      <DependentUpon>Add4X2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add4X3.resx">
+      <DependentUpon>Add4X3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Det2X2.resx">
+      <DependentUpon>Det2X2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="det3X3.resx">
+      <DependentUpon>det3X3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAboutme.resx">
+      <DependentUpon>frmAboutme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddFraction.resx">
+      <DependentUpon>frmAddFraction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddMatrix.resx">
+      <DependentUpon>frmAddMatrix.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add4X4.resx">
+      <DependentUpon>Add4X4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeterminant.resx">
+      <DependentUpon>frmDeterminant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDivideFraction.resx">
+      <DependentUpon>frmDivideFraction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEquationDegreeII.resx">
+      <DependentUpon>frmEquationDegreeII.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMinusFraction.resx">
+      <DependentUpon>frmMinusFraction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMinusMatrix.resx">
+      <DependentUpon>frmMinusMatrix.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMultipleFraction.resx">
+      <DependentUpon>frmMultipleFraction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMultipleMatrix.resx">
+      <DependentUpon>frmMultipleMatrix.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRD1.resx">
+      <DependentUpon>frmRD1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Minus2X2.resx">
+      <DependentUpon>Minus2X2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Minus2X3.resx">
+      <DependentUpon>Minus2X3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Minus2X4.resx">
+      <DependentUpon>Minus2X4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Minus3X2.resx">
+      <DependentUpon>Minus3X2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Minus3X3.resx">
+      <DependentUpon>Minus3X3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Minus3X4.resx">
+      <DependentUpon>Minus3X4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Minus4X2.resx">
+      <DependentUpon>Minus4X2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Minus4X3.resx">
+      <DependentUpon>Minus4X3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Minus4X4.resx">
+      <DependentUpon>Minus4X4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about me.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Math logo.ico" />
+    <None Include="Resources\global.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

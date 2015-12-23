@@ -1,0 +1,82 @@
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\bin\Debug\Assignment.exe.config
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\bin\Debug\Assignment.exe
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\bin\Debug\Assignment.pdb
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\bin\Debug\DevComponents.DotNetBar2.dll
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.Add2X2.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.Add2X3.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.Add2X4.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.Add3X2.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.Add3X3.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.frmAllMath.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.frmAddFraction.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.frmAddMatrix.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.frmDivideFraction.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.frmEquationDegreeII.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.frmMinusFraction.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.frmMultipleFraction.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.exe
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.pdb
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.frmMultipleMatrix.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.Add3X4.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.Add4X2.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.Add4X4.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.Add4X3.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.frmMinusMatrix.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.Minus2X2.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.Minus2X3.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.Minus2X4.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.Minus3X2.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.Minus3X3.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.Minus3X4.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.Minus4X2.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.Minus4X3.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.Minus4X4.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.frmAboutme.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.frmRD1.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.frmDeterminant.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.Det2X2.resources
+E:\NAMHORNG FILES\C# for beginners\Assignment\Assignment\obj\Debug\Assignment.det3X3.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\bin\Debug\Assignment.exe.config
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.exe
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.pdb
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\bin\Debug\Assignment.exe
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\bin\Debug\Assignment.pdb
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\bin\Debug\DevComponents.DotNetBar2.dll
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.Add2X2.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.Add2X3.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.Add2X4.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.Add3X2.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.Add3X3.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.Add3X4.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.Add4X2.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.Add4X3.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.Det2X2.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.det3X3.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.frmAllMath.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.frmAboutme.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.frmAddFraction.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.frmAddMatrix.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.Add4X4.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.frmDeterminant.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.frmDivideFraction.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.frmEquationDegreeII.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.frmMinusFraction.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.frmMinusMatrix.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.frmMultipleFraction.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.frmMultipleMatrix.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.frmRD1.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.Minus2X2.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.Minus2X3.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.Minus2X4.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.Minus3X2.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.Minus3X3.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.Minus3X4.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.Minus4X2.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.Minus4X3.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.Minus4X4.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+D:\NAMHORNG'S FILES\C# for beginners\ANT Assignment\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
